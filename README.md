@@ -1,5 +1,5 @@
 # quickstart 
-Make sure you have already installed both Docker Engine and Docker Compose and you have a domain name point to your machine. navigate to the root of project and execute
+Make sure you have already installed both Docker Engine and Docker Compose and you have a domain name points to your machine. navigate to the root of project and execute
 
 ### Testing mode
 ```
